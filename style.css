@@ -117,4 +117,5 @@ input::-webkit-outer-spin-button,
 
 .disabled:hover{
     cursor: no-drop;
+    background-color: rgba(248, 109, 109, 0.85);
 }
